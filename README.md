@@ -24,17 +24,17 @@ By using a relational database to load our data, we aim to create and provide me
 ---
 ## Table of Contents
 
-- [Data Sources](https://github.com/sammyschapps87/Data_Olympics_proj_2#data-sources)
-   - [CSV](https://github.com/sammyschapps87/Data_Olympics_proj_2#csv)
-   - [HTML](https://github.com/sammyschapps87/Data_Olympics_proj_2#html)
-- [ETL Process](https://github.com/sammyschapps87/Data_Olympics_proj_2#etl-process)
-   - [Extraction](https://github.com/sammyschapps87/Data_Olympics_proj_2#1-extraction)
-   - [Transformations](https://github.com/sammyschapps87/Data_Olympics_proj_2#2-transformations)
-   - [Load](https://github.com/sammyschapps87/Data_Olympics_proj_2#3-load)
-- [Final Products](https://github.com/sammyschapps87/Data_Olympics_proj_2#final-products)
-   - [ERD](https://github.com/sammyschapps87/Data_Olympics_proj_2#erd)
-   - [Sample Queries](https://github.com/sammyschapps87/Data_Olympics_proj_2#sample-queries) 
-- [Project Status](https://github.com/sammyschapps87/Data_Olympics_proj_2#project-status)
+- [Data Sources](https://github.com/Bjohnson08021/Data_Olympics_proj_2#data-sources)
+   - [CSV](https://github.com/Bjohnson08021/Data_Olympics_proj_2#csv)
+   - [HTML](https://github.com/Bjohnson08021/Data_Olympics_proj_2#html)
+- [ETL Process](https://github.com/Bjohnson08021/Data_Olympics_proj_2#etl-process)
+   - [Extraction](https://github.com/Bjohnson08021/Data_Olympics_proj_2#1-extraction)
+   - [Transformations](https://github.com/Bjohnson08021/Data_Olympics_proj_2#2-transformations)
+   - [Load](https://github.com/Bjohnson08021/Data_Olympics_proj_2#3-load)
+- [Final Products](https://github.com/Bjohnson08021/Data_Olympics_proj_2#final-products)
+   - [ERD](https://github.com/Bjohnson08021/Data_Olympics_proj_2#erd)
+   - [Sample Queries](https://github.com/Bjohnson08021/Data_Olympics_proj_2#sample-queries) 
+- [Project Status](https://github.com/Bjohnson08021/Data_Olympics_proj_2#project-status)
 - [Group Members](https://github.com/sammyschapps87/Data_Olympics_proj_2/blob/main/README.md#group-members)
 
 ---
