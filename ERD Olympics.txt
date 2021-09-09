@@ -1,0 +1,60 @@
+HostCity
+-
+id  int
+City varchar(50)
+Year int PK
+
+
+Events
+-
+id  int
+Sport varchar(50)
+Discipline PK varchar(50)
+
+
+Countries
+-
+id int
+Name varchar(50) 
+NOC varchar(50) PK
+
+
+
+Medals
+----
+id PK int
+Year inty FK >- HostCity.Year
+Country varchar(50) FK >-< Countries.NOC
+Gold int
+Silver int
+Bronze int
+Total int
+
+
+
+MultiWinnningAthletes
+-
+No. int
+Athlete varchar(50)
+Nation varchar(50) FK >-< Countries.NOC
+Sport varchar(50) FK >-< Events.Discipline
+Years varchar(10)
+Gender varchar(10)
+Gold int
+Silver int
+Bronze int
+Total int
+
+
+EventWinners
+-
+id int 
+Year int FK >- HostCity.Year
+Sport varchar(50)
+Discipline varchar(50) FK >-< Events.Discipline
+Event varchar(50)
+Athlete varchar(50)
+Gender varchar(50)
+Country varchar(50) FK >-< Countries.NOC
+Event_gender varchar(50)
+Medal varchar(10)

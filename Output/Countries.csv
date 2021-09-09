@@ -1,0 +1,236 @@
+,Country,NOC
+1,East Germany,East Germany
+2,Russia,Soviet Union
+3,United States,United States
+4,Italy,Italy
+5,Sweden,Sweden
+6,Australia,Australia
+7,Canada,Canada
+8,West Germany,West Germany
+9,Netherlands,Netherlands
+10,United Kingdom,United Kingdom
+11,Hungary,Hungary
+12,Japan,Japan
+13,Cuba,Cuba
+14,Poland,Poland
+15,Bulgaria,Bulgaria
+16,New Zealand,New Zealand
+17,Belgium,Belgium
+18,Mexico,Mexico
+19,Jamaica,Jamaica
+20,Finland,Finland
+21,Romania,Romania
+22,Portugal,Portugal
+23,France,France
+24,Brazil,Brazil
+25,Czechoslovakia,Czechoslovakia
+26,Trinidad and Tobago,Trinidad and Tobago
+27,Yugoslavia,Yugoslavia
+28,Venezuela,Venezuela
+29,Puerto Rico,Puerto Rico*
+30,"Korea, North","Korea, North"
+31,Bermuda,Bermuda*
+32,Thailand,Thailand
+33,Spain,Spain
+34,Denmark,Denmark
+35,Switzerland,Switzerland
+36,Pakistan,Pakistan
+37,"Korea, South","Korea, South"
+38,Norway,Norway
+39,Austria,Austria
+40,Iran,Iran
+41,Mongolia,Mongolia
+42,Ethiopia,Ethiopia
+43,Tanzania,Tanzania
+44,Guyana,Guyana
+45,Uganda,Uganda
+46,Ireland,Ireland
+47,India,India
+48,Zimbabwe,Zimbabwe
+49,Greece,Greece
+50,Lebanon,Lebanon
+51,China,China
+52,Nigeria,Nigeria
+53,Kenya,Kenya
+54,Morocco,Morocco
+55,Cote d'Ivoire,Cote d'Ivoire
+56,Algeria,Algeria
+57,Turkey,Turkey
+58,Cameroon,Cameroon
+59,Zambia,Zambia
+60,Dominican Republic,Dominican Republic
+61,Iceland,Iceland
+62,Egypt,Egypt
+63,Colombia,Colombia
+64,Peru,Peru
+65,Taiwan,Taiwan
+66,Syria,Syria
+67,Costa Rica,Costa Rica
+68,Suriname,Suriname
+69,Indonesia,Indonesia
+70,Djibouti,Djibouti
+71,Senegal,Senegal
+72,Philippines,Philippines
+73,Netherlands,Netherlands Antilles*
+74,Virgin Islands,Virgin Islands*
+75,Chile,Chile
+76,Argentina,Argentina
+77,Russia,Unified team
+78,Germany,Germany
+79,Bahamas,Bahamas
+80,South Africa,South Africa
+81,Namibia,Namibia
+82,Qatar,Qatar
+83,Lithuania,Lithuania
+84,Malaysia,Malaysia
+85,Croatia,Croatia
+86,Latvia,Latvia
+87,Estonia,Estonia
+88,Ghana,Ghana
+89,Israel,Israel
+90,Slovenia,Slovenia
+91,Independent Olympic Participants (1992),Independent Olympic Participants (1992)
+92,Russia,Russia
+93,Ukraine,Ukraine
+94,Belarus,Belarus
+95,Burundi,Burundi
+96,Ecuador,Ecuador
+97,Mozambique,Mozambique
+98,Czech Republic,Czech Republic
+99,Tunisia,Tunisia
+100,Kazakhstan,Kazakhstan
+101,Tonga,Tonga
+102,Uzbekistan,Uzbekistan
+103,Slovakia,Slovakia
+104,Moldova,Moldova
+105,Georgia,Georgia
+106,Hong Kong,Hong Kong*
+107,Armenia,Armenia
+108,Azerbaijan,Azerbaijan
+109,Saudi Arabia,Saudi Arabia
+110,Barbados,Barbados
+111,Sri Lanka,Sri Lanka
+112,Uruguay,Uruguay
+113,Kyrgyzstan,Kyrgyzstan
+114,Kuwait,Kuwait
+115,Vietnam,Vietnam
+116,North Macedonia,Macedonia
+117,Serbia,Serbia
+118,Eritrea,Eritrea
+119,Paraguay,Paraguay
+120,United Arab Emirates,United Arab Emirates
+121,Panama,Panama
+122,Sudan,Sudan
+123,Mauritius,Mauritius
+124,Togo,Togo
+125,Tajikistan,Tajikistan
+126,Singapore,Singapore
+127,Afghanistan,Afghanistan
+128,China,People's Republic of China
+129,Russia,ROC
+130,United States,United States of America
+131,Bangladesh,Bangladesh
+132,Chinese Taipei,Chinese Taipei
+133,Great Britain,Great Britain
+134,Republic of Moldova,Republic of Moldova
+135,Republic of Korea,Republic of Korea
+136,Liechtenstein,Liechtenstein
+137,Botswana,Botswana
+138,Islamic Republic of Iran,Islamic Republic of Iran
+139,Puerto Rico,Puerto Rico
+140,Hong Kong,"Hong Kong, China"
+141,Côte d'Ivoire,Côte d'Ivoire
+142,Honduras,Honduras
+143,Angola,Angola
+144,Bahrain,Bahrain
+145,Montenegro,Montenegro
+146,Fiji,Fiji
+147,Kosovo,Kosovo
+148,Bermuda,Bermuda
+149,San Marino,San Marino
+150,Jordan,Jordan
+151,North Macedonia,North Macedonia
+152,Turkmenistan,Turkmenistan
+153,Burkina Faso,Burkina Faso
+154,Grenada,Grenada
+155,Syria,Syrian Arab Republic
+156,"Korea, South",South Korea
+157,Maldives,Maldives
+158,Malta,Malta
+159,Mauritania,Mauritania
+160,Libya,Libya
+161,Nauru,Nauru
+162,Palestine,Palestine
+163,Cyprus,Cyprus
+164,El Salvador,El Salvador
+165,Federated States of Micronesia,Federated States of Micronesia
+166,Congo,Congo
+167,Monaco,Monaco
+168,Rwanda,Rwanda
+169,Samoa,Samoa
+170,Brunei Darussalam,Brunei Darussalam
+171,Benin,Benin
+172,Oman,Oman
+173,Iraq,Iraq
+174,Refugee Olympic Team,Refugee Olympic Team
+175,Yemen,Yemen
+176,Niger,Niger
+177,Somalia,Somalia
+178,Cape Verde,Cape Verde
+179,Guam,Guam
+180,Madagascar,Madagascar
+181,Haiti,Haiti
+182,Seychelles,Seychelles
+183,Guinea,Guinea
+184,Nicaragua,Nicaragua
+185,Sierra Leone,Sierra Leone
+186,Guatemala,Guatemala
+187,Papua New Guinea,Papua New Guinea
+188,Gambia,Gambia
+189,Cook Islands,Cook Islands
+190,Luxembourg,Luxembourg
+191,Nepal,Nepal
+192,Kiribati,Kiribati
+193,Malawi,Malawi
+194,Congo,Democratic Republic of the Congo
+195,Lao,Lao People's Democratic Republic
+196,St Vincent and the Grenadines,St Vincent and the Grenadines
+197,Albania,Albania
+198,Guinea,Guinea-Bissau
+199,Bolivia,Bolivia
+200,Bosnia,Bosnia and Herzegovina
+201,Saint Lucia,Saint Lucia
+202,Palau,Palau
+203,Saint Kitts and Nevis,Saint Kitts and Nevis
+204,Cayman Islands,Cayman Islands
+205,American Samoa,American Samoa
+206,Belize,Belize
+207,Vanuatu,Vanuatu
+208,Virgin Islands,"Virgin Islands, US"
+209,Sao Tome and Principe,Sao Tome and Principe
+210,Democratic Republic of Timor-Leste,Democratic Republic of Timor-Leste
+211,Mali,Mali
+212,Eswatini,Eswatini
+213,Andorra,Andorra
+214,Aruba,Aruba
+215,Comoros,Comoros
+216,Equatorial Guinea,Equatorial Guinea
+217,Liberia,Liberia
+218,Solomon Islands,Solomon Islands
+219,Marshall Islands,Marshall Islands
+220,Tanzania,United Republic of Tanzania
+221,Gabon,Gabon
+222,Antigua and Barbuda,Antigua and Barbuda
+223,South Sudan,South Sudan
+224,Cambodia,Cambodia
+225,Chad,Chad
+226,Bhutan,Bhutan
+227,Lesotho,Lesotho
+228,Dominica,Dominica
+229,Tuvalu,Tuvalu
+230,Virgin Islands,"Virgin Islands, British"
+231,Central African Republic,Central African Republic
+232,Myanmar,Myanmar
+233,Germany,West GermanyGermany
+234,Russia,Unified TeamRussia
+235,Russia,Soviet UnionUnified Team
