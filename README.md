@@ -24,7 +24,7 @@ By using a relational database to load our data, we aim to create and provide me
 ---
 ## Table of Contents
 
-- [Data Sources](https://github.com/Bjohnson08021/Data_Olympics_proj_2#data-sources)
+- [Data Sources](https://github.com/Bjohnson08021/Olympics_Data_proj#data-sources)
    - [CSV](https://github.com/Bjohnson08021/Data_Olympics_proj_2#csv)
    - [HTML](https://github.com/Bjohnson08021/Data_Olympics_proj_2#html)
 - [ETL Process](https://github.com/Bjohnson08021/Data_Olympics_proj_2#etl-process)
